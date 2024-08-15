@@ -1,0 +1,284 @@
+[
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Mapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NoReturn",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "LoggerProtocol",
+        "importPath": "spotapi.data.interfaces",
+        "description": "spotapi.data.interfaces",
+        "isExtraImport": true,
+        "detail": "spotapi.data.interfaces",
+        "documentation": {}
+    },
+    {
+        "label": "Login",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "PrivatePlaylist",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "PublicPlaylist",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "Song",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "solver_clients",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "Logger",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "NoopLogger",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "JSONSaver",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "SaverError",
+        "importPath": "spotapi",
+        "description": "spotapi",
+        "isExtraImport": true,
+        "detail": "spotapi",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "validators",
+        "description": "validators",
+        "detail": "validators",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "atexit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "atexit",
+        "description": "atexit",
+        "detail": "atexit",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Once",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class Once:\n    \"\"\"Inspired by golang's sync.Once\"\"\"\n    def __init__(self, func: Callable[[], None]):\n        self._lock = threading.Lock()\n        self._executed = False\n        self.func = func\n    def run(self, *args, **kwargs):\n        # Args and Kwargs are not used\n        with self._lock:\n            if not self._executed:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ParserGUI",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class ParserGUI(tk.Tk):\n    def __init__(\n        self,\n        callback: Callable[[List[str]], None],\n        getter_gen: Generator[List[Dict[str, Any]], None, None],\n        logger: LoggerProtocol = NoopLogger(),\n    ) -> None:\n        # Used for atexit calls\n        self.exit = Once(self.save_playlist)\n        atexit.register(self.exit.run)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "Parser",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class Parser:\n    def __init__(\n        self,\n        playlist: str,\n        cfg: Config,\n        email: str,\n        password: str,\n        *,\n        must: Callable[[Mapping[str, Any]], bool] = lambda _: True,\n    ) -> None:",
+        "detail": "main",
+        "documentation": {}
+    }
+]
