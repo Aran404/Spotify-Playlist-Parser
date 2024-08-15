@@ -51,9 +51,10 @@ class ParserGUI(tk.Tk):
         
         super().__init__()
         
+        # On close
         self.protocol("WM_DELETE_WINDOW", self.exit.run)
 
-        self.title("Playlist Parser")
+        self.title("Playlist Parser | https://github.com/Aran404/Spotify-Playlist-Parser")
         self.geometry("500x500")
         self.configure(bg="white")
         self.create_widgets()
@@ -211,6 +212,7 @@ class Parser:
 
     def get_songs(self) -> Generator[List[Dict[str, Any]], None, None]:
         for c in self.pb_playlist.paginate_playlist():
+            # Messy but parses the data efficiently
             parsed = [
                 {
                     "name": x["itemV2"]["data"]["name"],

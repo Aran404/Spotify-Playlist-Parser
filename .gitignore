@@ -1,0 +1,18 @@
+# Ignore compiled Python files
+*.pyc
+*.*.pyc
+
+build/
+dist/
+
+# Ignore VSC Files
+.vscode/*
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# PyPi dependencies
+.egg-info
+
+main.py
+wrapper
