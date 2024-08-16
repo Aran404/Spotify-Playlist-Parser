@@ -1,5 +1,5 @@
 colorama==0.4.6
 Pillow==10.4.0
 requests==2.31.0
-spotapi==1.0.1
+spotapi==1.0.3
 validators==0.33.0
